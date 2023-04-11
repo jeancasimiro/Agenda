@@ -8,7 +8,7 @@ form.addEventListener('submit', function(e) {
 
     let linha = '<tr>'
     linha += `<td> <strong>${inputNome.value}</strong></td>`;
-    linha += `<td>${inputTelefone.value}</td>`;
+    linha += `<td> <strong>${inputTelefone.value}</strong></td>`;
     linha += '</tr>';
 
     addLinha += linha;

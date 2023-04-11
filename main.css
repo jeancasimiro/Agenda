@@ -59,6 +59,7 @@ table td {
     text-align: center;
     font-size: 18px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgb(123, 255, 156);
 }
 
 form button {
